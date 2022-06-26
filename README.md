@@ -1,7 +1,7 @@
 # ADS-B-attack-data
 Here is the anomaly data set based on ADS-B historical data, which mainly contains six attacks: abnormal altitude, abnormal speed, abnormal track, time replay, fake injection and jamming attack. 
 # Real ADS-B data
-The data in the ADS-b_data.TXT file is the real data of ADS-B and is used to forge attack data.ADS-B data format is shown as example 1. 
+The data in the ADS-b_data.TXT file is the real data of ADS-B.ADS-B data format is shown as example 1. 
 example 1:
 2017-02-10 10:43:06: 780AE7,CDG4652,118.4102173,38.9137604,22600,421.93,257.545,0,64
 Time: 2017-02-10 10:43:06:
